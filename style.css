@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+
+img{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.contents{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 100px;
+}
